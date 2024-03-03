@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Search Engine</string>
+    <string name="placeholder">Search </string>
+</resources>
